@@ -6,6 +6,9 @@ API by [Ian Van Ness](http://ianvanness.com/)
 
 Usage: beerMe(paragraphs, type)
 
-example: beerMe(5, "latin")
+example:
+
+h = Hipster.new
+h.beerMe(5, "latin")
 
 Defaults to 2 paragraphs and "centric".
