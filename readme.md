@@ -6,6 +6,6 @@ API by [Ian Van Ness](http://ianvanness.com/)
 
 Usage: beerMe(paragraphs, type)
 
-example: beerME(5, "latin")
+example: beerMe(5, "latin")
 
-Defaults to 2 paragraphs and "centric"
+Defaults to 2 paragraphs and "centric".
