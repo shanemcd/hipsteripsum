@@ -8,7 +8,8 @@ Usage: beerMe(paragraphs, type)
 
 example:
 
-h = Hipster.new  break
+h = Hipster.new
+
 h.beerMe(5, "latin")
 
 Defaults to 2 paragraphs and "centric".
