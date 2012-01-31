@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'hipsteripsum'
 
 Gem::Specification.new do |s|
-  s.name        = 'hipsteripsum'
+  s.name        = 'hipster'
   s.version     = '0.0.7'
   s.date        = '2011-12-06'
   s.summary     = "Hipster Ipsum"
@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Shane McDonald"]
   s.email       = 'me@shanemcd.com'
   s.files       = ["lib/hipsteripsum.rb"]
-  s.homepage    = 'https://github.com/anatomyofashane/Hipster-Ipsum'
+  s.homepage    = 'https://github.com/anatomyofashane/hipsteripsum'
   s.add_dependency('faraday')
   s.add_dependency('faraday_middleware')
   s.executables = %w( hipsteripsum )

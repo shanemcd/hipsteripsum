@@ -6,8 +6,8 @@ API by [Ian Van Ness](http://ianvanness.com/)
 
 ###Usage:
 
-    hipster (paragraphs) (type)
+    hipsteripsum (paragraphs) (type)
 
 ###Example:
 
-    hipster 5 latin
+    hipsteripsum 5 latin | mate
