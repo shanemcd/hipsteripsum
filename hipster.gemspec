@@ -4,8 +4,8 @@ require 'hipsteripsum'
 
 Gem::Specification.new do |s|
   s.name        = 'hipster'
-  s.version     = '0.0.7'
-  s.date        = '2011-12-06'
+  s.version     = '0.0.8'
+  s.date        = Time.now.strftime('%Y-%m-%d')
   s.summary     = "Hipster Ipsum"
   s.description = "http://hipsterjesus.com/"
   s.authors     = ["Shane McDonald"]
