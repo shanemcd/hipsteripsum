@@ -6,8 +6,8 @@ API by [Ian Van Ness](http://ianvanness.com/)
 
 ###Usage:
 
-hipster (paragraphs) (type)
+    hipster (paragraphs) (type)
 
 ###Example:
 
-hipster 5 latin
+    hipster 5 latin
