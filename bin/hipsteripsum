@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'gist'
+Hipster.buildurl(*ARGV)
