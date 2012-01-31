@@ -4,13 +4,10 @@ This is the start of a Ruby gem for interacting with the http://hipsterjesus.com
 
 API by [Ian Van Ness](http://ianvanness.com/)
 
-##Usage: 
+###Usage:
 
-    beerMe(paragraphs, type)
+hipster (paragraphs) (type)
 
-##Example:
+###Example:
 
-    h = Hipster.new
-    h.beerMe(5, "latin")
-
-Defaults to 2 paragraphs and "centric".
+hipster 5 latin
