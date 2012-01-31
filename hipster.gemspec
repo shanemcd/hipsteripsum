@@ -4,7 +4,7 @@ require 'hipsteripsum'
 
 Gem::Specification.new do |s|
   s.name        = 'hipsteripsum'
-  s.version     = '0.0.8'
+  s.version     = '0.0.9'
   s.date        = Time.now.strftime('%Y-%m-%d')
   s.summary     = "Hipster Ipsum"
   s.description = "http://hipsterjesus.com/"
