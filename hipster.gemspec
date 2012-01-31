@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'hipsteripsum'
 
 Gem::Specification.new do |s|
-  s.name        = 'hipster'
+  s.name        = 'hipsteripsum'
   s.version     = '0.0.8'
   s.date        = Time.now.strftime('%Y-%m-%d')
   s.summary     = "Hipster Ipsum"
