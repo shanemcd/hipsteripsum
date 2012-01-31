@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-require 'gist'
+require 'hipsteripsum'
 Hipster.buildurl(*ARGV)
